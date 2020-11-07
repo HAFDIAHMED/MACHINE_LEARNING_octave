@@ -8,4 +8,3 @@ Best practices in machine learning (bias/variance theory, innovation process in 
 As part of this course, I have completed (and still completing !) projects involving building supervised learning, unsupervised learning, deep learning and recommender system algorithms from scratch (without Scikit-learn, Tensorflow, etc) by using Octave.
 
 
-This file contains all the projects I have done and which i am doing through learning with Dr Andrew Ng's Machine Learning course on Coursea: https://www.coursera.org/learn/machine-learning.
